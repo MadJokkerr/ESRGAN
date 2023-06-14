@@ -4,6 +4,6 @@
 
 <p align="center">
     <a>
-        <img src="https://github.com/MadJokkerr/ESRGAN-Implimentation/tree/main/src/logo.png" width="30%">
+        <img src="https://github.com/MadJokkerr/ESRGAN/blob/main/src/Logo.png" width="30%">
     </a>
 </p>
